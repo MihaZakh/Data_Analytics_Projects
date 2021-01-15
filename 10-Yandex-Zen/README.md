@@ -12,4 +12,4 @@
 
 ## Библиотеки и другие инструменты
 
-Python (pandas, sqlalchemy) + Tableau
+SQL + Python (pandas, sqlalchemy) + Tableau
